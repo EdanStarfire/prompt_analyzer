@@ -1,7 +1,7 @@
 # Prompt Filtering System Development Plan (Final Version)
 
 ## 1. Project Setup
-- Set up version control repository (Git)
+- You do not need to setup version control repository (Git). It is already setup in the project directory.
 - Establish project structure and folder organization during setup phase
 - No CI/CD system will be used; AI agents will handle testing
 - Testing will be done directly in the environment
